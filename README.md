@@ -3,7 +3,7 @@
 Manga & stories by **Liam** ([@the_lord_liam](https://x.com/the_lord_liam)), made with the Grok Bot team.
 
 - Read online: https://the-lord-liam.github.io/books/
-- All rights reserved, see [LICENSE](LICENSE)
+- Free and open: copy, remix, sell, train AI on it, anything (CC0, see [LICENSE](LICENSE))
 
 ## Library
 
